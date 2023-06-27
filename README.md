@@ -34,7 +34,7 @@ Em seguida, decidi analisar estes registros anormais individualmente.
 Pude então notar dois fatores em comum, o ip de origem e o tipo de pacote enviado por ele.  <br/><br />
 <img src="https://i.imgur.com/4EzNKAl.png" height="55%" width="55%" alt="Padrão"/>
 <br /><br />
-Logo, pude concluir que o ataque sofrido foi do tipo DoS SYN, já que o ponto de origem foi único e abusou do pedido de sincronização.  <br/>
+Logo, pude concluir que o ataque sofrido foi do tipo DoS SYN, já que o ponto de origem foi único e abusou do pedido de sincronização.  <br/><br />
 O passo final, foi elaborar um relatório utilizando a informação deduzida em conjunto com a fornecida no cenário.
 <br /><br />
 <img src="https://i.imgur.com/yL6gp3p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
