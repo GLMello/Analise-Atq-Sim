@@ -1,6 +1,6 @@
 <h1>Simulação - Análise de ataque de rede</h1>
 
- ### Read this in: [English](https://github.com/GLMello/Sym-Atk-Anl)
+ ### You can also read this in: [English](https://github.com/GLMello/Sym-Atk-Anl)
 
 <h2>Descrição</h2>
 Este projeto consiste em analisar uma simulação de um ataque de rede, identificar o tipo de ataque e explicar de que maneira ele afetou o funcionamento da página alvo. 
@@ -20,7 +20,7 @@ Você desconecta o servidor temporariamente para que ele possa se recuperar e vo
 
  ### [Registro TCP/HTTP](https://docs.google.com/spreadsheets/d/1PGqx7XkiAq2m5147FqyZ06JhLyrprZ0mQvwBBk8vJ_I/template/preview)
 
-<h2>Passo a passo:</h2>
+<h2>Passo a passo</h2>
 
 <p align="left">
 Ao analisar o registro me deparei com as seguintes tentativas de conexão: <br/><br />
@@ -39,6 +39,6 @@ O passo final foi elaborar um relatório utilizando a informação deduzida em c
 <br /><br />
 <img src="https://i.imgur.com/yL6gp3p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h2>Nota:</h2>
+<h2>Nota</h2>
 
  Este projeto faz parte do curso [Google Cybersecurity Professional Certificate.](https://www.coursera.org/professional-certificates/google-cybersecurity) <br />
