@@ -1,6 +1,6 @@
 <h1>Simulação - Análise de ataque de rede</h1>
 
- ### You can also read this in: [English](https://github.com/GLMello/Sym-Atk-Anl)
+ ### You can also read this in: [English](https://github.com/GLMello/Sim-Atk-Anl)
 
 <h2>Descrição</h2>
 Este projeto consiste em analisar uma simulação de um ataque de rede, identificar o tipo de ataque e explicar de que maneira ele afetou o funcionamento da página alvo. 
